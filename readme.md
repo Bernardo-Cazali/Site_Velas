@@ -1,4 +1,4 @@
-# 🕯️ E-commerce de Velas Artesanais
+#🕯️ E-commerce de Velas Artesanais
 
 Projeto de e-commerce minimalista para venda de velas artesanais e aromáticas. Este repositório foi desenvolvido como um **estudo prático e experimento de engenharia de prompts**, testando as capacidades de modelos de IA generativa para a construção de uma aplicação web funcional de ponta a ponta.
 
