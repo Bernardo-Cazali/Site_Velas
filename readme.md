@@ -4,6 +4,14 @@ Projeto de e-commerce minimalista para venda de velas artesanais e aromáticas. 
 
 ---
 
+## 📸 Demonstração do Projeto
+
+| Página inicial | Catálogo de velas | Painel administrativo |
+|:---:|:---:|:---:|
+| ![Página inicial da Luz & Aroma](screenshots/inicio.png) | ![Catálogo de velas](screenshots/catalogo.png) | ![Painel administrativo](screenshots/painel-adm.png) |
+
+---
+
 ## 🚀 Tecnologias Utilizadas
 
 * **PHP:** Processamento no lado do servidor e rotas de produtos.
